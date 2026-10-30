@@ -1,0 +1,4 @@
+interface:
+  display_name: "Altium Schematic Analysis"
+  short_description: "Read Altium files, review circuits, check stability, pick parts"
+  default_prompt: "Use $altium-schematic to read this Altium project/schematic, then analyze it and suggest suitable components."

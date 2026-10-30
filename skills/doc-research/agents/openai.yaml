@@ -1,0 +1,4 @@
+interface:
+  display_name: "Document + Research"
+  short_description: "Read images/PDFs (OCR, tables) and research with citations"
+  default_prompt: "Use $doc-research to read this image/PDF and, if asked, research the topic with cited sources."
